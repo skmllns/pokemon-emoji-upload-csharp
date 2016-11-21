@@ -1,0 +1,13 @@
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\UnitTests.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\FSharp.Core.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\ScrapySharp.Core.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\ScrapySharpAsync.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\FSharp.Core.xml
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.pdb
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.xml
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.dll
+c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.pdb
