@@ -11,3 +11,16 @@ c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\Batch
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.csprojResolveAssemblyReference.cache
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.exe
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\BatchPokemonEmoji.exe.config
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.exe
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\BatchPokemonEmoji.exe
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\BatchPokemonEmoji.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\FSharp.Core.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\ScrapySharp.Core.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\ScrapySharpAsync.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\FSharp.Core.xml
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\BatchPokemonEmoji\obj\Debug\BatchPokemonEmoji.csprojResolveAssemblyReference.cache

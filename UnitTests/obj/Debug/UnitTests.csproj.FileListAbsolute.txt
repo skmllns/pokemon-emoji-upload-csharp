@@ -11,3 +11,16 @@ c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitT
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.dll
 c:\users\smullins2\documents\visual studio 2015\Projects\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\FSharp.Core.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\ScrapySharp.Core.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\ScrapySharpAsync.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\FSharp.Core.xml
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\smullins2\Documents\GitHub\BatchPokemonEmoji\UnitTests\obj\Debug\UnitTests.pdb
